@@ -17,12 +17,7 @@ Actualmente existen programas que aprovechan al máximo la capacidad de computo 
 
 > A mayor cantidad y variación de caracteres usados en una contraseñas, más tiempo tardará en ser descifrada. 
 
-el método diceware
-Hay varios métodos para crear contraseñas seguras 
-
-hay contraseñas que memorizar
-
-
+Los gestores de contraseñas son herramientas de software que pueden ayudarte a crear contraseñas fuertes y gestionarlas sin tener que memorizarlas todas, solo tienes que recordar una sola contraseña, las contraseña maestra del gestor.
 
 ### Gestión de contraseñas con KeePassX
 
@@ -41,6 +36,7 @@ Recordar múltiples contraseñas seguras puede ser complicado.
 * No guardes las contraseñas en tu navegador.
 * Cambia tus contraseñas cada 90 días.
 * Nunca reuses una contraseña.
+* Utiliza métodos como Diceware para crear contraseñas seguras y fáciles de recordar.
 
 ### Enlaces de interes
 
