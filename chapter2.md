@@ -25,5 +25,10 @@ Contraseñas débiles ...
 
 ### Usando KeePassDroid
 
+### Algunas recomendaciones extras
 
+* Nunca ingresar a tus cuentas desde dispositivos que no sean de tu confianza.
+* 
+
+### Enlaces de interes
 
