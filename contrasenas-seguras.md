@@ -26,7 +26,7 @@ Otro problema muy común con la gestión de contraseñas, es el uso de contrase�
 ### Algunas recomendaciones extras
 
 * Nunca ingresar a tus cuentas desde dispositivos que no sean de tu confianza.
-* Https
+* Asegurarse de que el sitio web donde estas ingresando tu contraseña, utilice HTTPS.
 
 ### Enlaces de interes
 
