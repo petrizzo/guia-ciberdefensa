@@ -18,6 +18,7 @@ Actualmente existen programas que aprovechan al máximo la capacidad de computo 
 > A mayor cantidad y variación de caracteres usados en una contraseñas, más tiempo tardará en ser descifrada. 
 
 el método diceware
+Hay varios métodos para crear contraseñas seguras 
 
 hay contraseñas que memorizar
 
