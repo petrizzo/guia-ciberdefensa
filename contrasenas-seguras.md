@@ -13,11 +13,17 @@ Otro problema muy común con la gestión de contraseñas, es el uso de contrase�
 
 ### Creación de contraseñas fuertes
 
+contraseñas largas
+
+el método diceware
+
+hay contraseñas que memorizar
+
 
 
 ### Gestión de contraseñas con KeePassX
 
-
+Recordar múltiples contraseñas seguras puede ser complicado.
 
 ### Usando KeePassDroid
 
@@ -27,6 +33,9 @@ Otro problema muy común con la gestión de contraseñas, es el uso de contrase�
 
 * Nunca ingresar a tus cuentas desde dispositivos que no sean de tu confianza.
 * Asegurarse de que el sitio web donde estas ingresando tu contraseña, utilice HTTPS.
+* Al usar gestores de contraseñas, es muy importante mantener tu computadora libre de software malicioso.
 
 ### Enlaces de interes
 
+* [Sitio web de Diceware en español](http://world.std.com/~reinhold/diceware_en_espanolA.htm)
+* [Guia de KeePass para entornos Windows](https://info.securityinabox.org/es/keepass_instalar)
