@@ -4,3 +4,11 @@ Una contraseña es una palabra o la unión de un conjunto de caracteres, usada c
 
 Por lo general, un usuario de equipos de computación, utiliza contraseñas para diversos propósitos: acceso a su computadora personal, redes sociales, correo electrónico, cuentas bancarias, sitios web, dispositivos móviles, entre otros. Dificultando recordar todas estas y haciendo muy común la mala práctica de seguridad de utilizar la misma contraseña para distintas cuentas.
 
+*"Una contraseña puede ser tan fuerte como el servicio menos seguro donde se ha utilizado"*
+
+
+### Creación de contraseñas fuertes
+
+
+### Gestión de contraseñas con KeepassX
+
