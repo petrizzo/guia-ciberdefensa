@@ -4,7 +4,7 @@ Una contraseña o clave, es una palabra o la unión de un conjunto de caracteres
 
 Por lo general, un usuario de equipos de computación, utiliza contraseñas para diversos propósitos: acceso a su computadora personal, redes sociales, correo electrónico, cuentas bancarias, sitios web, dispositivos móviles, entre otros. Dificultando recordarlas todas y haciendo muy común la mala práctica de seguridad de utilizar la misma contraseña para distintas cuentas.
 
->Una contraseña puede ser tan fuerte como el servicio menos seguro donde se ha utilizado.
+> Una contraseña puede ser tan fuerte como el servicio menos seguro donde se ha utilizado.
 
 Otro problema muy común con la gestión de contraseñas, es el uso de contraseñas débiles (cortas o muy sencillas) para cuentas críticas, permitiendo a un atacante adivinarlas facilmente, en algunos casos mediante software especializado para estos fines. No es recomendable utilizar contraseñas cortas, de solo números o letras como "123456", "qwerty", "ana", "barcelona", "V12345678" entre otras.
 
@@ -15,7 +15,7 @@ Otro problema muy común con la gestión de contraseñas, es el uso de contrase�
 
 Actualmente existen programas que aprovechan al máximo la capacidad de computo para "romper" la seguridad de las contraseñas, y descifrarlas en el menor tiempo posible. Por esta razón es recomendable utilizar contraseñas que tengan por lo menos doce (12) caracteres combinados entre letras minúsculas, mayúsculas, números y símbolos.
 
->A mayor cantidad y variación de caracteres usados en una contraseñas, más tiempo tardará en ser descifrada. 
+> A mayor cantidad y variación de caracteres usados en una contraseñas, más tiempo tardará en ser descifrada. 
 
 el método diceware
 
