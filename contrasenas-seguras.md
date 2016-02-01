@@ -13,6 +13,10 @@ Otro problema muy común con la gestión de contraseñas, es el uso de contrase�
 
 ### Creación de contraseñas fuertes
 
+Actualmente existen programas que aprovechan al máximo la capacidad de computo para "romper" la seguridad de las contraseñas, y descifrarlas en el menor tiempo posible.
+
+>A mayor cantidad y variación de caracteres usados en una contraseñas, más tiempo tardará en ser descifrada. 
+
 contraseñas largas
 
 el método diceware
