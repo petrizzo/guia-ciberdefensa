@@ -1,4 +1,4 @@
 # Contenido
 
-* [Sistemas Operativos](chapter1.md)
-* [Contraseñas Seguras](chapter2.md)
+* [Sistemas Operativos](sistemas-operativos.md)
+* [Contraseñas Seguras](contrasenas-seguras.md)
