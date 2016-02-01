@@ -8,7 +8,7 @@ Por lo general, un usuario de equipos de computación, utiliza contraseñas para
 
 Otro problema muy común con la gestión de contraseñas, es el uso de contraseñas débiles (cortas o muy sencillas) para cuentas críticas, permitiendo a un atacante adivinarlas facilmente, en algunos casos mediante software especializado para estos fines. No es recomendable utilizar contraseñas cortas, de solo números o letras como "123456", "qwerty", "ana", "barcelona", "V12345678" entre otras.
 
-![](Captura de pantalla de 2016-02-01 04:04:58.png)
+![](images/Captura de pantalla de 2016-02-01 04:04:58.png)
 
 ### Creación de contraseñas fuertes
 
