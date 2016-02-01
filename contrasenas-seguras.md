@@ -11,7 +11,7 @@ Otro problema muy común con la gestión de contraseñas, es el uso de contrase�
 ![](images/Captura de pantalla de 2016-02-01 04:04:58.png)
 *Información de SplashData*
 
-### Creación de contraseñas fuertes
+## Creación y gestionando de contraseñas fuertes
 
 Actualmente existen programas que aprovechan al máximo la capacidad de computo para "romper" la seguridad de las contraseñas, y descifrarlas en el menor tiempo posible. Por esta razón es recomendable utilizar contraseñas que tengan por lo menos doce (12) caracteres combinados entre letras minúsculas, mayúsculas, números y símbolos.
 
@@ -21,13 +21,13 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
 
 ### Gestión de contraseñas con KeePassX
 
-Recordar múltiples contraseñas seguras puede ser complicado.
-
-### Usando KeePassDroid
 
 
+### Usando y configurando KeePassDroid
 
-### Algunas recomendaciones extras
+
+
+## Algunas recomendaciones extras
 
 * Nunca ingresar a tus cuentas desde dispositivos que no sean de tu confianza.
 * Asegurarse de que el sitio web donde estas ingresando tu contraseña, utilice HTTPS.
@@ -38,7 +38,7 @@ Recordar múltiples contraseñas seguras puede ser complicado.
 * Nunca reuses una contraseña.
 * Utiliza métodos como Diceware para crear contraseñas seguras y fáciles de recordar.
 
-### Enlaces de interes
+## Enlaces de interes
 
 * [Sitio web de Diceware en español](http://world.std.com/~reinhold/diceware_en_espanolA.htm)
 * [Guia de KeePass para entornos Windows](https://info.securityinabox.org/es/keepass_instalar)
