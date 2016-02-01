@@ -37,6 +37,10 @@ Recordar múltiples contraseñas seguras puede ser complicado.
 * Nunca ingresar a tus cuentas desde dispositivos que no sean de tu confianza.
 * Asegurarse de que el sitio web donde estas ingresando tu contraseña, utilice HTTPS.
 * Al usar gestores de contraseñas, es muy importante mantener tu computadora libre de software malicioso.
+* Cubre tu computadora cuando ingreses tus contraseñas.
+* No guardes las contraseñas en tu navegador.
+* Cambia tus contraseñas cada 90 días.
+* Nunca reuses una contraseña.
 
 ### Enlaces de interes
 
