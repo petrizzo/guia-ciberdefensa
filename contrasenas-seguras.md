@@ -30,9 +30,17 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
     
     ![](images/Captura de pantalla de 2016-02-01 20:06:15.png)
     
-3. qwerty
+3. ...
 
     ![](images/Captura de pantalla de 2016-02-01 20:06:46.png)
+    
+    ![](Captura de pantalla de 2016-02-01 21:13:57.png)
+    
+    ![](Captura de pantalla de 2016-02-01 21:16:02.png)
+
+4. ...
+
+    ![](Captura de pantalla de 2016-02-01 21:19:26.png)
 
 ### Usando y configurando KeePassDroid
 
