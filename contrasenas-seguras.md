@@ -36,17 +36,21 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
     
     ![](Captura de pantalla de 2016-02-01 21:16:02.png)
 
-4. ...
+4. Creamos una nueva entrada
 
     ![](Captura de pantalla de 2016-02-01 21:19:26.png)
     
     ![](Captura de pantalla de 2016-02-01 21:22:07.png)
 
+5. ...
+
 ### Usando y configurando KeePassDroid
 
+1. ...
 
+2. ...
 
-## Algunas recomendaciones generales
+## Otras recomendaciones
 
 * Nunca ingresar a tus cuentas desde dispositivos que no sean de tu confianza.
 * Cambia tus contraseñas cada 90 días.
