@@ -24,9 +24,10 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
 
     ![](images/Captura de pantalla de 2016-02-01 20:38:05.png)
 
-2. qwerty
+2. Elegimos una contraseña maestra para ingresar a la base de datos. Es importante que esta contraseña sea fuerte y la memoricemos para futuros accesos.
 
     ![](images/Captura de pantalla de 2016-02-01 19:59:58.png)
+    
     ![](images/Captura de pantalla de 2016-02-01 20:06:15.png)
     
 3. qwerty
