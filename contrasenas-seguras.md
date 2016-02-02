@@ -48,12 +48,12 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
 
 
 
-## Algunas recomendaciones extras
+## Algunas recomendaciones generales
 
 * Nunca ingresar a tus cuentas desde dispositivos que no sean de tu confianza.
-* Asegurarse de que el sitio web donde estas ingresando tu contraseña, utilice HTTPS.
+* Asegúrese que los sitios web donde ingresas tus contraseñas, utilicen HTTPS.
 * Al usar gestores de contraseñas, es muy importante mantener tu computadora libre de software malicioso.
-* Cubre tu computadora cuando ingreses tus contraseñas.
+* Cubre bien tu computadora cuando ingreses tus contraseñas en lugares públicos. Esto evita que alguien pueda verlas o que alguna cámara de vigilancia la capture.
 * No guardes las contraseñas en tu navegador.
 * Cambia tus contraseñas cada 90 días.
 * Nunca reuses una contraseña.
