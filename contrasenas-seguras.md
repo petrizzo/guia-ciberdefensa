@@ -11,7 +11,7 @@ Otro problema muy común con la gestión de contraseñas, es el uso de contrase�
 ![](images/Captura de pantalla de 2016-02-01 04:04:58.png)
 *Las peores contraseñas del 2015 según SplashData*
 
-## Creación y gestionando de contraseñas fuertes
+## Creando y gestionando contraseñas fuertes
 
 Actualmente existen programas que aprovechan al máximo la capacidad de computo para "romper" la seguridad de las contraseñas, y descifrarlas en el menor tiempo posible. Por esta razón es recomendable utilizar contraseñas que tengan por lo menos doce (12) caracteres combinados entre letras minúsculas, mayúsculas, números y símbolos.
 
@@ -30,9 +30,7 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
     
     ![](images/Captura de pantalla de 2016-02-01 20:06:15.png)
     
-3. ...
-
-    ![](images/Captura de pantalla de 2016-02-01 20:06:46.png)
+3. Guardamos la base de datos creada con el nombre de nuestra preferencia en la opción [Fichero > Guardar Base de Datos como...]
     
     ![](Captura de pantalla de 2016-02-01 21:13:57.png)
     
