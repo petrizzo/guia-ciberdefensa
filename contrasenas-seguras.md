@@ -20,10 +20,9 @@ Actualmente existen programas que aprovechan al máximo la capacidad de computo 
 Los gestores de contraseñas son herramientas de software que pueden ayudarte a crear contraseñas fuertes y gestionarlas sin tener que memorizarlas todas, solo tienes que recordar una sola contraseña, las contraseña maestra del gestor.
 
 ### Gestión de contraseñas con KeePassX
-1. qwerty
+1. Luego de instalar KeePassX en nuestro sistemas, abrimos la herramienta y creamos una nueva base de datos con la opción [Fichero > Nueva Base de Datos].
 
     ![](images/Captura de pantalla de 2016-02-01 20:38:05.png)
-    *Creamos una nueva base de datos en la opción [Fichero > Nueva Base de Datos]*
 
 2. qwerty
 
