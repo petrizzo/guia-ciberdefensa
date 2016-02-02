@@ -42,3 +42,4 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
 
 * [Sitio web de Diceware en español](http://world.std.com/~reinhold/diceware_en_espanolA.htm)
 * [Guia de KeePass para entornos Windows](https://info.securityinabox.org/es/keepass_instalar)
+* [Repositorio público de KeePassX](https://github.com/keepassx/keepassx)
