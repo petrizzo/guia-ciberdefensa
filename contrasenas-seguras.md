@@ -36,13 +36,15 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
     
     ![](imagenes/Captura de pantalla de 2016-02-01 21:16:02.png)
 
-4. Creamos una nueva entrada
+4. Creamos una nueva entrada en la opción [Entradas > Añadir Nueva Entrada]
 
     ![](imagenes/Captura de pantalla de 2016-02-01 21:19:26.png)
     
     ![](imagenes/Captura de pantalla de 2016-02-01 21:22:07.png)
 
-5. ...
+5. Utilizamos la herramienta de "generación" para crear una nueva contraseña combinando minúsculas, mayúsculas, números, símbolos, entre otras opciones.
+
+6. Guardamos los cambios
 
 ### Usando y configurando KeePassDroid
 
