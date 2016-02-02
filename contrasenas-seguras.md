@@ -21,9 +21,9 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
 
 ### Gestión de contraseñas con KeePassX
 
-![](Captura de pantalla de 2016-02-01 19:55:47.png)
+![](images/Captura de pantalla de 2016-02-01 19:55:47.png)
 
-![](Captura de pantalla de 2016-02-01 19:58:55.png)
+![](images/Captura de pantalla de 2016-02-01 19:59:58.png)
 
 ### Usando y configurando KeePassDroid
 
