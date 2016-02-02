@@ -9,7 +9,7 @@ Por lo general, un usuario de equipos de computación, utiliza contraseñas para
 Otro problema muy común con la gestión de contraseñas, es el uso de contraseñas débiles (cortas o muy sencillas) para cuentas críticas, permitiendo a un atacante adivinarlas facilmente, en algunos casos mediante software especializado para estos fines. No es recomendable utilizar contraseñas cortas, de solo números o letras como "123456", "qwerty", "ana", "barcelona", "V12345678" entre otras.
 
 ![](images/Captura de pantalla de 2016-02-01 04:04:58.png)
-*Información de SplashData*
+*Las peores contraseñas del 2015 según SplashData*
 
 ## Creación y gestionando de contraseñas fuertes
 
@@ -20,14 +20,19 @@ Actualmente existen programas que aprovechan al máximo la capacidad de computo 
 Los gestores de contraseñas son herramientas de software que pueden ayudarte a crear contraseñas fuertes y gestionarlas sin tener que memorizarlas todas, solo tienes que recordar una sola contraseña, las contraseña maestra del gestor.
 
 ### Gestión de contraseñas con KeePassX
+1. qwerty
 
-![](images/Captura de pantalla de 2016-02-01 19:55:47.png)
+    ![](Captura de pantalla de 2016-02-01 20:38:05.png)
+    *Creamos una nueva base de datos en la opción [Fichero > Nueva Base de Datos]*
 
-![](images/Captura de pantalla de 2016-02-01 19:59:58.png)
+2. qwerty
 
-![](Captura de pantalla de 2016-02-01 20:06:15.png)
+    ![](images/Captura de pantalla de 2016-02-01 19:59:58.png)
+    ![](Captura de pantalla de 2016-02-01 20:06:15.png)
+    
+3. qwerty
 
-![](Captura de pantalla de 2016-02-01 20:06:46.png)
+    ![](Captura de pantalla de 2016-02-01 20:06:46.png)
 
 ### Usando y configurando KeePassDroid
 
