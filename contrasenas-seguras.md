@@ -8,7 +8,7 @@ Por lo general, un usuario de equipos de computación, utiliza contraseñas para
 
 Otro problema muy común con la gestión de contraseñas, es el uso de contraseñas débiles (cortas o muy sencillas) para cuentas críticas, permitiendo a un atacante adivinarlas facilmente, en algunos casos mediante software especializado para estos fines. No es recomendable utilizar contraseñas cortas, de solo números o letras como "123456", "qwerty", "ana", "barcelona", "V12345678" entre otras.
 
-![](images/Captura de pantalla de 2016-02-01 04:04:58.png)
+![](imagenes/Captura de pantalla de 2016-02-01 04:04:58.png)
 *Las peores contraseñas del 2015 según SplashData*
 
 ## Creando y gestionando contraseñas fuertes
@@ -22,25 +22,25 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
 ### Gestión de contraseñas con KeePassX
 1. Luego de instalar KeePassX en nuestro sistemas, abrimos la herramienta y creamos una nueva base de datos con la opción [Fichero > Nueva Base de Datos].
 
-    ![](images/Captura de pantalla de 2016-02-01 20:38:05.png)
+    ![](imagenes/Captura de pantalla de 2016-02-01 20:38:05.png)
 
 2. Elegimos una contraseña maestra para ingresar a la base de datos. Es importante que esta contraseña sea fuerte y la memoricemos para futuros accesos.
 
-    ![](images/Captura de pantalla de 2016-02-01 19:59:58.png)
+    ![](imagenes/Captura de pantalla de 2016-02-01 19:59:58.png)
     
-    ![](images/Captura de pantalla de 2016-02-01 20:06:15.png)
+    ![](imagenes/Captura de pantalla de 2016-02-01 20:06:15.png)
     
 3. Guardamos la base de datos creada con el nombre de nuestra preferencia en la opción [Fichero > Guardar Base de Datos como...]
     
-    ![](Captura de pantalla de 2016-02-01 21:13:57.png)
+    ![](imagenes/Captura de pantalla de 2016-02-01 21:13:57.png)
     
-    ![](Captura de pantalla de 2016-02-01 21:16:02.png)
+    ![](imagenes/Captura de pantalla de 2016-02-01 21:16:02.png)
 
 4. Creamos una nueva entrada
 
-    ![](Captura de pantalla de 2016-02-01 21:19:26.png)
+    ![](imagenes/Captura de pantalla de 2016-02-01 21:19:26.png)
     
-    ![](Captura de pantalla de 2016-02-01 21:22:07.png)
+    ![](imagenes/Captura de pantalla de 2016-02-01 21:22:07.png)
 
 5. ...
 
