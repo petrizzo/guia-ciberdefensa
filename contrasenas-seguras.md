@@ -22,17 +22,17 @@ Los gestores de contraseñas son herramientas de software que pueden ayudarte a 
 ### Gestión de contraseñas con KeePassX
 1. qwerty
 
-    ![](Captura de pantalla de 2016-02-01 20:38:05.png)
+    ![](images/Captura de pantalla de 2016-02-01 20:38:05.png)
     *Creamos una nueva base de datos en la opción [Fichero > Nueva Base de Datos]*
 
 2. qwerty
 
     ![](images/Captura de pantalla de 2016-02-01 19:59:58.png)
-    ![](Captura de pantalla de 2016-02-01 20:06:15.png)
+    ![](images/Captura de pantalla de 2016-02-01 20:06:15.png)
     
 3. qwerty
 
-    ![](Captura de pantalla de 2016-02-01 20:06:46.png)
+    ![](images/Captura de pantalla de 2016-02-01 20:06:46.png)
 
 ### Usando y configurando KeePassDroid
 
