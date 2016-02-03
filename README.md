@@ -1,3 +1,3 @@
 # Guias de CiberDefensa
 
-Introducción ...
+Introducción
