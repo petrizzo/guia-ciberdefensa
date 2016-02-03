@@ -13,3 +13,6 @@ Cuando reflexionamos sobre ¿por qué es importante entender cómo se conectan l
 
 
 Tomado del artículo Las TIC: Una espada de doble filo para las defensoras de los derechos humanos, escr
+
+
+Añadir los casos de violencia en la red (buscar las definiciones, guia vieja)
